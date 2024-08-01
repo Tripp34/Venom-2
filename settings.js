@@ -10,9 +10,9 @@ global.ytname = "David Cyril"
 global.socialm = "GitHub: DeeCeeXxx"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = '2347043759577,2349066528353,254782572110'  //creator number
-global.ownername = 'David Cyril' //owner name
-global.botname = '🕷Venom-2🕷' //name of the bot
+global.ownernumber '263710264014'  //creator number
+global.ownername = 'DEATH GOD' //owner name
+global.botname = '🕷DEATH🕷' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
